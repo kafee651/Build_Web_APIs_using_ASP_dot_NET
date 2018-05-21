@@ -1,0 +1,11 @@
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\bin\Debug\netcoreapp2.0\MyApp.deps.json
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\bin\Debug\netcoreapp2.0\MyApp.runtimeconfig.json
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\bin\Debug\netcoreapp2.0\MyApp.runtimeconfig.dev.json
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\bin\Debug\netcoreapp2.0\MyApp.dll
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\bin\Debug\netcoreapp2.0\MyApp.pdb
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\obj\Debug\netcoreapp2.0\MyApp.csprojAssemblyReference.cache
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\obj\Debug\netcoreapp2.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\obj\Debug\netcoreapp2.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\obj\Debug\netcoreapp2.0\MyApp.AssemblyInfo.cs
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\obj\Debug\netcoreapp2.0\MyApp.dll
+C:\Users\MohammadUddin\Documents\GitHub\Build_Web_APIs_using_ASP_dot_NET\MyApp\obj\Debug\netcoreapp2.0\MyApp.pdb
